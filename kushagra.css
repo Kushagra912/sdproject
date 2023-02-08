@@ -1,0 +1,83 @@
+body{
+    background-color: darkslategrey;
+}
+
+
+.first{
+
+    text-decoration:solid;
+    margin-top: 100px;
+    font-family: 'Dancing Script', cursive;
+    color: whitesmoke;
+    text-align: center;
+    
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.second{
+    font-family: 'Abel', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.git{
+    padding-left: 20px;
+
+}
+
+.linked{
+
+
+    padding-right: 20px;
+}
+    
+
+.connect{
+    display: flex;
+    justify-content:center;
+    padding-top: 30px;
+
+}
+
+.Expectation{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: burlywood;
+    font-size: 50px;
+}
+
+
+.container{
+    text-align: center;
+}
+
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+}
+
+.Reality{
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    background-color: burlywood;
+    font-size: 50px; 
+}
+
+.container2{
+    text-align: center;
+}
+
+ul.myUL2{
+    display: inline-block;
+    text-align: left;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+}
